@@ -17,7 +17,6 @@
 
 **Tableau Dashboard**
 https://public.tableau.com/views/Creddashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-![image](https://user-images.githubusercontent.com/132043166/235139020-05a14a85-d55e-4bff-8075-d913bffea034.png)
 
 **Tech Stack**
 • Tableau | Power Point
